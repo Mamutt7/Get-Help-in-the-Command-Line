@@ -1,4 +1,4 @@
-# Get-help-in-the-Linux-Command-Line
+# Get help in the Linux Command Line
 
 ## Activity overview
 As a security analyst, you won’t have all the answers all the time, but you can learn where to find them. One of the great things about Linux is that you can get help right through the command line.
